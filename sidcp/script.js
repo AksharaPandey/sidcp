@@ -69,7 +69,7 @@ gsap.from(".card",{
         markers:false,
         start: "top 70%",
         end: "top 65%",
-        scrub: 1,
+        scrub: 0.3,
     }
 })
 gsap.from("#colon1",{
